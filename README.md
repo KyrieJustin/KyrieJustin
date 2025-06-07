@@ -16,7 +16,7 @@
 ## 🛠️ Current Arsenal
 
 - 🐍 Python | ☕ Java 
-- 💡 OpenCV | YOLO | Deep Learning | Infrared Sensing | Prompt Engineering
+- 💡 Fine-grained | OpenCV | YOLO | Deep Learning | Infrared Sensing | Prompt Engineering
 - 🗣️ English: CET-6 - 635 (I speak code *and* human)
 
 ---
@@ -41,11 +41,13 @@
 
 ## 🏅 Achievements
 
-- 🥇 National Scholarship (Freshman Year)
-- 🥈 Second-Class Scholarship (Sophomore Year)
-- 💬 2× "Outstanding Student" (someone noticed 😎)
-- 🧮 2nd Prize – Math Competition
-- 📝 2nd Prize – English Competition
+- 🥇 National Scholarship (Freshman Year) – apparently hard work *does* pay off
+- 🥈 Second-Class Scholarship (Sophomore Year) – still going strong 💪
+- 💬 2× "Outstanding Student" – teachers noticed I’m not just a robot builder
+- 🧮 2nd Prize – University Math Competition – I count like a calculator (with more personality)
+- 📝 2nd Prize – University English Competition – can debug and debate in two languages
+- 🦘 7th Place – High Jump, Men’s School Sports Meet – turns out I can leap over code *and* bars
+
 
 ---
 
