@@ -33,9 +33,9 @@
 - Scored 92 on final evaluation – proud parent moment
 
 
-### 🛣️ Driving Distance Estimation Research
-- Reproduced lane detection model under Prof. Yan Xin  
-- Learned to make machines guess how far they’ve gone – spooky, right?
+### 📡 Robot Network Routing Simulation (2022-2023)
+- Designed task-oriented routing protocols for mobile robot networks  
+- Final review: *"Excellent work!"* (teacher's words, not mine)
 
 ---
 
@@ -46,8 +46,6 @@
 - 💬 2× "Outstanding Student" (someone noticed 😎)
 - 🧮 2nd Prize – Math Competition
 - 📝 2nd Prize – English Competition
-- 📚 3rd Prize – National English Vocab Challenge
-- 🎨 2nd Prize – AIGC Intangible Culture Creation Contest
 
 ---
 
@@ -56,14 +54,8 @@
 - Debugs like a detective 🕵️‍♂️ with a side of Stack Overflow
 - Thinks “Hello, World” should be replaced by “Why won’t you work?”
 - Favorite language: Python (but still loves C when it behaves)
+- Dreamed of becoming a professional basketball player (still working on it)
 
----
-
-## 📬 Let's Connect!
-
-- 📧 Email: avilajuan5488@outlook.com  
-- 🌐 Working on my portfolio… once I stop building robots  
-- 💭 Looking for internship/research collabs in AI, CV, NLP – DM me or send snacks
 
 ---
 
